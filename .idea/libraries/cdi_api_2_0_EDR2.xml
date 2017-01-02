@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cdi-api-2.0-EDR2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cdi-api-2.0-EDR2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

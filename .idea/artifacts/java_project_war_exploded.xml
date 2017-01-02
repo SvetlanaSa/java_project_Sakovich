@@ -1,0 +1,29 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="java_project:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/java_project_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="java_project/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="java_project" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="cdi-api-2.0-EDR2" />
+          <element id="library" level="project" name="jakarta-standard-1.1.2" />
+          <element id="library" level="project" name="Java EE 6-Java EE 6" />
+          <element id="library" level="project" name="java_project" />
+          <element id="library" level="project" name="javax.el-api-3.0.0" />
+          <element id="library" level="project" name="javax.inject-1" />
+          <element id="library" level="project" name="javax.interceptor-api-1.2" />
+          <element id="library" level="project" name="javax.servlet-api-3.1.0" />
+          <element id="library" level="project" name="jstl" />
+          <element id="library" level="project" name="jstl-1.1.2" />
+          <element id="library" level="project" name="jstl-1.2" />
+          <element id="library" level="project" name="servlet-api" />
+          <element id="library" level="project" name="servlet-api-3.0" />
+          <element id="library" level="project" name="standard" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
